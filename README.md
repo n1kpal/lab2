@@ -30,7 +30,7 @@
 ```bash
 pip install pandas scikit-learn pymorphy3 nltk
 ```
-2. 
+2. Запуск:
 ```bash
 python main.py
 ```
