@@ -29,7 +29,7 @@
 ## Установка и Запуск
 1. Установка зависимостей:
 ```bash
-pip install pandas scikit-learn pymorphy3 nltk
+pip install -r requirements.txt
 ```
 2. Запуск:
 ```bash
