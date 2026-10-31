@@ -25,10 +25,14 @@
 - `db/` — исходные данные (documents, queries, dev_relevance);
 - `output/` — папка для результатов.
 
-## Запуск
-
+## Установка и Запуск
+1. Установка зависимостей:
 ```bash
-python lab2.py
+pip install pandas scikit-learn pymorphy3 nltk
+```
+2. 
+```bash
+python main.py
 ```
 
 Перед запуском папка output/ должна существовать.
