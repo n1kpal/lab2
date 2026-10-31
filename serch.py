@@ -1,7 +1,6 @@
 import pandas as pd
 
 K = 5
-
 CONFIGS = ['A', 'B', 'C', 'D']
 
 def relevant_place(results, relevant_ids):
